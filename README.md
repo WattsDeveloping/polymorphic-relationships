@@ -1,4 +1,4 @@
-Michael @ Verve Group
+@author Michael Watts
 
 - Basic example of a polymorphic relation between a Post/Video with comments.
 
